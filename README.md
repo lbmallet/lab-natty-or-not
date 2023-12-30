@@ -26,7 +26,7 @@ O uso da tecnologia para aprimorar narrativas e produção de conteúdo é promi
 Este projeto, além de me desafiar profissionalmente, inspirou-me a explorar novos horizontes na interação entre IA e produção de conteúdo. Transformar dados em narrativas envolventes é uma jornada emocionante e repleta de promessas. Estou entusiasmado para continuar explorando as possibilidades oferecidas pelas IAs.
 
 ### Exemplos e Insigths
-- [Podcast](/PODCAST.md)
+- [Podcast](/PODCAST.mp3)
 
 ## Links Interessantes
 
